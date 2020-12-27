@@ -1,4 +1,4 @@
-![Nestor Tech Tips](https://nestortechtips.online/wp-content/uploads/2020/10/cropped-default-2-1.png)
+![Nestor Tech Tips](https://storage.googleapis.com/nestortechtips.online/cover.png)
 
 # Preparar clúster de Kubernetes en Ubuntu 18.04 con kubeadm
 En este documento aprendereás cómo crear un clúster de Kubernetes
